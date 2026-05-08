@@ -60,6 +60,3 @@ I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN st
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
-
------
-*Crafted with ✨ and AI by Farzu*
