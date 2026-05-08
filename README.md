@@ -1,4 +1,6 @@
-# <p align="center"> 🚀 Welcome to my Digital Space! 🚀 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Abdur%20Rahman%20Molla&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abdur+Rahman+Molla;AI-Powered+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -13,6 +15,13 @@
 ### 💫 About Me
 I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN stack at **Programming Hero**. I love building modern, performant, and user-centric web applications.
 
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,mongodb,express,html,css,git,github,vscode,figma,postman" />
+  </a>
+</p>
+
 ### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orko66321&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Abdur's GitHub stats" />
@@ -20,17 +29,11 @@ I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN st
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orko66321&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orko66321&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orko66321&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ### 💡 Random Dev Quote
@@ -60,3 +63,6 @@ I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN st
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
+
+-----
+*Crafted with ✨ and AI by Farzu*
