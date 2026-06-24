@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abdur+Rahman+Molla;AI-Powered+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abdur+Rahman+Molla;AI-Driven+Full-Stack+Engineer;Batch+14+Student;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 ### 💫 About Me
-I'm an **AI-Powered Future Ready Web Developer** and a proud member of **Programming Hero (Batch 14)**. I am deeply passionate about mastering the MERN stack and integrating AI technologies into modern web development to build performant, scalable, and user-centric applications.
+I'm an **AI-Driven Full-Stack Web Engineer** and a proud member of **Programming Hero (Batch 14)**. I am passionate about leveraging modern web technologies and AI integrations to build high-performance, scalable, and user-centric web applications.
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
@@ -42,10 +42,10 @@ I'm an **AI-Powered Future Ready Web Developer** and a proud member of **Program
 </p>
 
 ### 🔭 Current Focus
-- 🔭 Mastering **AI-Driven Fullstack Engineering** at Programming Hero (Batch 14).
-- ⚡ Deep diving into **TypeScript** to build type-safe, robust applications.
-- 🚀 Exploring advanced **Next.js** patterns and **Advanced React** concepts.
-- 🌱 Creating AI-integrated workflows and automated solutions.
+- 🔭 Mastering **AI-Driven Full-Stack Web Engineering** at Programming Hero (Batch 14).
+- ⚡ Leveraging **TypeScript** for building robust and type-safe applications.
+- 🚀 Exploring advanced **Next.js** patterns and complex state management in **React**.
+- 🌱 Integrating AI solutions into real-world web projects.
 
 ### 📫 Let's Connect
 <p align="center">
