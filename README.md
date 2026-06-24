@@ -13,12 +13,12 @@
 ---
 
 ### 💫 About Me
-I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN stack at **Programming Hero**. I love building modern, performant, and user-centric web applications.
+I'm an **AI-Powered Future Ready Web Developer** and a proud member of **Programming Hero (Batch 14)**. I am deeply passionate about mastering the MERN stack and integrating AI technologies into modern web development to build performant, scalable, and user-centric applications.
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,mongodb,express,html,css,git,github,vscode,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,express,html,css,git,github,vscode,figma,postman" />
   </a>
 </p>
 
@@ -42,9 +42,10 @@ I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN st
 </p>
 
 ### 🔭 Current Focus
-- 🔭 Mastering Advanced Web Development.
-- ⚡ Future-ready AI integrations in web apps.
-- 🌱 Currently learning: **Next.js** & **Advanced React**.
+- 🔭 Mastering **AI-Driven Fullstack Engineering** at Programming Hero (Batch 14).
+- ⚡ Deep diving into **TypeScript** to build type-safe, robust applications.
+- 🚀 Exploring advanced **Next.js** patterns and **Advanced React** concepts.
+- 🌱 Creating AI-integrated workflows and automated solutions.
 
 ### 📫 Let's Connect
 <p align="center">
